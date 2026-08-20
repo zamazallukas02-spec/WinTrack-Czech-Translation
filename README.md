@@ -9,7 +9,11 @@ První komunitní český překlad programu WinTrack 17.0.
 1. Stáhněte soubor `Wintrack_czech_Translate_Full.exe`
 2. Zkopírujte jej do složky s WinTrackem
 3. Spusťte program
+4.Upozornění Windows SmartScreen
 
+Protože je překlad distribuován jako komunitní aplikace a není digitálně podepsán komerčním certifikátem, může Windows při prvním spuštění zobrazit upozornění SmartScreen.
+
+Pokud jste soubor stáhli z oficiálního GitHub repozitáře tohoto projektu, můžete zvolit „Přesto spustit“.
 ## Informace
 
 - Přeloženo do češtiny
