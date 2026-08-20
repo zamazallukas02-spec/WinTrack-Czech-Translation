@@ -1,6 +1,6 @@
 # WinTrack 17.0 – Český překlad
 
-První komunitní český překlad programu WinTrack 17.0.
+První komunitní český překlad programu WinTrack 17.0., 
 První veřejně dostupný český překlad programu WinTrack 17.0.
 
 ## Instalace
