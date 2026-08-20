@@ -1,7 +1,8 @@
 # WinTrack 17.0 – Český překlad
 
-První komunitní český překlad programu WinTrack 17.0., 
-První veřejně dostupný český překlad programu WinTrack 17.0.
+První komunitní český překlad programu WinTrack 17.0.
+
+Součástí projektu je automatický instalační program (Setup) pro snadnou instalaci českého překladu i přenosná verze pro ruční instalaci.
 
 ## Instalace
 
@@ -54,7 +55,17 @@ Tyto soubory mohou být použity pro další úpravy a vylepšování překladu.
 
 ## Stažení
 
-Klikněte na soubor `Wintrack_17.0_Czech_Translation.exe` v seznamu souborů a zvolte **Download**.
+## Stažení
+
+### Doporučená verze
+**WinTrack_17.0_Czech_Setup.exe**
+
+Automatický instalační program, který usnadňuje instalaci českého překladu.
+
+### Přenosná verze
+**WinTrack_17.0_Czech_Translation.exe**
+
+Verze pro ruční instalaci. Stačí zkopírovat do složky s programem WinTrack a spustit.
 
 ## Ukázky
 
