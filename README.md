@@ -20,9 +20,11 @@ Po úspěšné instalaci bude program zobrazen v českém jazyce.
 
 - Přeloženo do češtiny
 - Přeložena menu, dialogová okna a systémové texty
+- Součástí projektu je automatický instalační program
+- K dispozici je také přenosná verze pro ruční instalaci
 - Verze: WinTrack 17.0
 - Překlad vytvořen komunitou pro české uživatele programu WinTrack
-
+  
 ## Upozornění systému Windows
 
 Při prvním spuštění se může zobrazit upozornění Microsoft Defender SmartScreen:
