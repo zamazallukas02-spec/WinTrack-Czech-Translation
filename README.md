@@ -5,10 +5,16 @@ První veřejně dostupný český překlad programu WinTrack 17.0.
 
 ## Instalace
 
-1. Stáhněte soubor `Wintrack_17.0_Czech_Translation.exe`
-2. Zkopírujte jej do složky s WinTrackem
-3. Spusťte program
-4. Po dokončení překladu spusťte WinTrack
+1. Stáhněte soubor Wintrack_17.0_Czech_Translation.exe
+2. Ukončete WinTrack, pokud je spuštěný.
+3. Spusťte Wintrack_17.0_Czech_Translation.exe jako správce.
+4. Vyberte složku, kde je WinTrack nainstalován.
+   Příklad:
+   C:\Program Files (x86)\WinTrack\
+5. Potvrďte instalaci.
+6. Spusťte WinTrack.
+
+Po úspěšné instalaci bude program zobrazen v českém jazyce.
 
 ## Informace
 
