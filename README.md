@@ -1,5 +1,5 @@
 # WinTrack-Czech-Translation
-Czech language translation for WinTrack 17.0 created by community.
+Community Czech translation for WinTrack 17.0.
 # WinTrack 17.0 – Český překlad
 
 První komunitní český překlad programu WinTrack 17.0.
