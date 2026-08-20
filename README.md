@@ -77,3 +77,9 @@ Verze pro ruční instalaci. Stačí zkopírovat do složky s programem WinTrack
 <img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/2e31249d-5d4e-411f-9545-4d8fbef57e43" />
 <img width="1918" height="1037" alt="image" src="https://github.com/user-attachments/assets/634868b2-e71d-48be-ab27-f1a9d34301dd" />
 Pokud najdete nepřeložené texty nebo chyby v překladu, můžete vytvořit Issue nebo mě kontaktovat prostřednictvím GitHubu.
+## Verze
+
+v1.0
+- První veřejné vydání českého překladu
+- Přeložená menu, dialogy a StringTable
+- Přidán automatický instalační program
