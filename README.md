@@ -53,7 +53,6 @@ Repozitář obsahuje také zdrojové překladové soubory:
 
 Tyto soubory mohou být použity pro další úpravy a vylepšování překladu.
 
-## Stažení
 
 ## Stažení
 
