@@ -15,6 +15,7 @@ První komunitní český překlad programu WinTrack 17.0.
 - Přeloženo do češtiny
 - Přeložena menu, dialogová okna a systémové texty
 - Verze: WinTrack 17.0
+- Kompletní český překlad programu WinTrack 17.0 vytvořený komunitou. Přeložena menu, dialogová okna, systémové texty a většina uživatelského rozhraní.
 
 ## Autor
 
