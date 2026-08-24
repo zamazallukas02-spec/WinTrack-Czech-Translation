@@ -69,13 +69,11 @@ Verze pro ruční instalaci. Stačí zkopírovat do složky s programem WinTrack
 ## Ukázky
 
 *(zde jsou přiložené screenshoty programu s českým překladem)*
-<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/370fa36c-8b40-4db4-a689-9173de106c25" />
-<img width="1919" height="1041" alt="image" src="https://github.com/user-attachments/assets/b044f628-bbf0-42f9-9925-0727e3ca3310" />
-<img width="1920" height="1039" alt="image" src="https://github.com/user-attachments/assets/b0633ae8-6e01-4db9-8ee1-ed7486bb6772" />
-<img width="1920" height="1037" alt="image" src="https://github.com/user-attachments/assets/93e319c5-ac25-44fc-982c-15064f91b1b2" />
-<img width="1920" height="1038" alt="image" src="https://github.com/user-attachments/assets/5a9ebda6-ca3c-4bdb-b517-e39c40bc52dd" />
-<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/2e31249d-5d4e-411f-9545-4d8fbef57e43" />
-<img width="1918" height="1037" alt="image" src="https://github.com/user-attachments/assets/634868b2-e71d-48be-ab27-f1a9d34301dd" />
+<img width="1920" height="1038" alt="image" src="https://github.com/user-attachments/assets/f5d860ef-594a-4e3e-bb84-ccdd974fdbd9" />
+<img width="1920" height="1039" alt="image" src="https://github.com/user-attachments/assets/4096e8ee-7690-4d9c-8677-a53b2c5889c7" />
+<img width="1920" height="1041" alt="image" src="https://github.com/user-attachments/assets/96f81ad9-fecb-449f-980d-7dfebb812341" />
+<img width="1920" height="1041" alt="image" src="https://github.com/user-attachments/assets/aa0b8c90-7683-42cf-830e-e6f9165e4fe9" />
+
 Pokud najdete nepřeložené texty nebo chyby v překladu, můžete vytvořit Issue nebo mě kontaktovat prostřednictvím GitHubu.
 ## Verze
 
